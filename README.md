@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhaval Kakadiya</h1>
 <h3 align="center">Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhavalkakdiya&label=Profile%20views&color=0e75b6&style=flat" alt="dhavalkakdiya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhavalkakdiya" alt="dhavalkakdiya" /></a> </p>
-
 - 🔭 I’m currently working on **Football Match Prediction**
 
 - 📫 How to reach me **dhaval.ldit@gmail.com**
